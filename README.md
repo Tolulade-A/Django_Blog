@@ -1,2 +1,2 @@
 # Django_Blog
-A blog built with Django for backend.
+A blog built with Django at the backend.
